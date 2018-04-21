@@ -1,7 +1,7 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# daveops.info
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+This is a Gatsby project. See: https://www.gatsbyjs.org/docs/building-with-components/
+Deployment? See: https://app.netlify.com/sites/daveops-info/overview 
 
 ## Install
 
@@ -23,4 +23,5 @@ npm run develop
 
 ## Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+1. Submit a PR to master.
+2. When the PR is approved, Netlify will automatically deploy the site to: https://daveops-info.netlify.com/
